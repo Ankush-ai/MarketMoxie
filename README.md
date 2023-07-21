@@ -39,7 +39,7 @@ Enjoy using MarketMoxie and have a delightful shopping experience!
 
 ## Contributors
 
-- [Your Name](https://github.com/Ankush-ai)
+- [Ankush Srivastava](https://github.com/Ankush-ai)
 
 If you'd like to contribute to MarketMoxie, please fork this repository and submit a pull request.
 
